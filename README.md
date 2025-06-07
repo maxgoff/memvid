@@ -4,6 +4,8 @@
 
 I have added some testing which leads me to believe the only thing revolutionary about this is the gall of the developer who posted it in the first place.  I prefer to avoid trash talking fellow software developers.  Let me just say that perhaps the errors are all mine in either understanding or execution.  Having said that, memvid appears to be a non-starter.
 
+My script compare_vector_stores.py produced the following results, which speak for themselves.
+
 
 ## FAISS vs memvid
 ###Vector Store Comparison Report
@@ -11,6 +13,10 @@ I have added some testing which leads me to believe the only thing revolutionary
 Generated: 2025-06-06 13:05:00
 
 The test file use is <strong><href a="https://arxiv.org/pdf/2506.05296">Control Tax: The Price of Keeping AI in Check</a></strong>
+
+<p>
+https://arxiv.org/pdf/2506.05296
+</p>
 
 Roughly 2MB pdf
 
